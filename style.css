@@ -1,0 +1,17 @@
+
+
+
+   #container
+   {
+	background:black ;
+	color: white;
+	width:600px ;
+	padding:5px;
+   }
+   h1{
+   	font-size: 80px ;
+   }
+   h2{
+   	background: #4B91FD ;
+	border-radius: 5px ;
+   }
